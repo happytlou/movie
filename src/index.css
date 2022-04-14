@@ -52,4 +52,28 @@ body{
 {
   margin-right: 30px;
 }
-
+.icon
+{
+    margin-left: 5px;
+}
+form.example input[type=text] {
+  font-size: 17px;
+  border: 1px solid white;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  float: left;
+  width: 80%;
+  background-color: rgb(65, 65, 255);
+}
+form.example button {
+  float: left;
+  background-color: rgb(65, 65, 255);
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border: 1px solid white;
+}
